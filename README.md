@@ -1,97 +1,141 @@
-# Hi, I'm Mala Ram Babu 👋
+# Mala Ram Babu
+### Senior QA Automation Engineer · Python · Playwright · AI Testing
 
-### Senior QA Automation Engineer | 4+ Years Experience | Python · Playwright · AI Testing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mala-ram-babu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uniquestarram@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MalaRamBabu)
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🔭 Currently working as **Senior Systems Engineer** at Jasmin Infotech, Chennai
-- 🤖 Building **AI-powered test automation** tools using Playwright + Gemini AI
-- 🎯 Specialised in **web automation**, **API testing**, and **visual regression testing**
-- 📚 Currently learning **AI/LLM testing** and **advanced CI/CD**
-- 💼 Available for **freelance QA automation** projects on Upwork
-- 📍 Based in **Kurnool, Andhra Pradesh, India**
+Senior QA Automation Engineer with **4+ years** of hands-on experience building and maintaining automated test frameworks across **web, desktop, and embedded domains**.
+
+Currently at **Jasmin Infotech Pvt. Ltd., Chennai** — working on automation frameworks and AI-assisted testing for global clients including **QSC LLC (USA)** and **Sony Corporation (Japan)**.
+
+- 🔭 Building **AI-powered test automation** tools — Playwright + Gemini AI
+- 🎯 Specialist in **Playwright, Selenium, Python, PyTest, REST API testing**
+- 📊 Reduced manual testing by **70%** and regression time by **50%** across 10+ releases
+- ✅ Delivered **zero critical defects** across 10+ release cycles
+- 📍 **Chennai, India** — open to hybrid and remote opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Automation & Testing
+### Test Automation
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI & Vision
+### API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI & Computer Vision
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Tools & DevOps
+### GUI Development
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### CI/CD & DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📂 Portfolio Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🎭 Playwright Automation Framework](https://github.com/MalaRamBabu/playwright-automation-framework) | End-to-end web automation with POM architecture — 28 test cases | Playwright · PyTest · POM |
-| [🔌 API Testing Framework](https://github.com/MalaRamBabu/api-testing-framework) | REST API test suite covering GET/POST/PUT/PATCH/DELETE — 43 test cases | Python · Requests · PyTest |
-| [🤖 AI Response Validator](https://github.com/MalaRamBabu/ai-response-validator) | Validates Google Gemini AI responses for accuracy and safety — 31 test cases | Gemini API · PyTest · Python |
-| [👁️ Visual Testing Framework](https://github.com/MalaRamBabu/visual-testing-framework) | Detects UI regressions by comparing screenshots with OpenCV — 21 test cases | OpenCV · Playwright · NumPy |
-| [⚡ AI Test Generator](https://github.com/MalaRamBabu/ai-test-generator) | Give a URL → AI analyses page → auto-generates & runs Playwright tests | Playwright · Gemini AI · PyTest |
-
----
-
-## 📊 Key Achievements
-
-```
-✅  70% reduction in manual testing effort
-✅  50% faster regression execution time
-✅  Zero critical defects across 10+ release cycles
-✅  4 successful Playwright-automated releases (QSC LLC, USA)
-✅  5 major projects — web, desktop & embedded (Sony Japan + QSC USA)
-```
+### Test Management
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
 
-```
-Apr 2025 – Present   Senior Systems Engineer   Jasmin Infotech, Chennai
-                     → AI testing, GUI automation, wave analysis (Sony Japan)
+### 🏢 Jasmin Infotech Private Limited, Chennai
+**Nov 2021 – Present**
 
-Apr 2023 – Apr 2025  Systems Engineer          Jasmin Infotech, Chennai
-                     → Playwright CI/CD framework, manual embedded testing (QSC USA)
+| Role | Period |
+|---|---|
+| Senior Systems Engineer | Apr 2025 – Present |
+| Systems Engineer | Apr 2023 – Apr 2025 |
+| Assistant Systems Engineer | Nov 2021 – Apr 2023 |
 
-Nov 2021 – Apr 2023  Assistant Systems Engineer Jasmin Infotech, Chennai
-                     → Selenium + PyAutoGUI automation framework (QSC USA)
-```
+**Projects delivered:**
+
+**▶ GUI Development & Audio Wave Analysis Automation** *(Sony Japan · Feb 2026–Present)*
+> Developed PyQt5 GUIs for DSP communication (MCP2210/SHARC boards), automated APx audio analyser with Python, building wave file analysis automation using OpenCV
+
+**▶ Embedded Testing — Smart Audio Amplifier (DSP)** *(Sony Japan · Apr 2025–Jan 2026)*
+> Validated SHARC 21594 DSP boards using SigmaStudio/SpectraLab/APx, 50+ test cases, 4 release deliveries
+
+**▶ Web Automation Framework — Playwright/PyTest + CI/CD** *(QSC USA · Oct 2023–Sep 2024)*
+> Built Playwright+Python+PyTest framework with POM, nightly batch execution, cross-browser testing (Chromium/Firefox/WebKit), REST API testing — **50% regression time reduction**
+
+**▶ Embedded GUI Application Testing** *(QSC USA · Apr 2023–Sep 2023)*
+> 50+ manual test cases, 25 bugs logged in JIRA, TestRail traceability, Agile ceremonies
+
+**▶ GUI Automation Framework — Selenium + PyAutoGUI** *(QSC USA · Nov 2021–Mar 2023)*
+> 50+ Selenium WebDriver test cases, desktop automation, OpenCV image validation, Matplotlib dashboards — **70% manual testing reduction**
 
 ---
 
-## 📈 GitHub Stats
+## 📂 Portfolio Projects
 
-![Ram Babu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalaRamBabu&show_icons=true&theme=tokyonight&hide_border=true)
+| Project | Description | Tech Stack |
+|---|---|---|
+| [🎭 Playwright Automation Framework](https://github.com/MalaRamBabu/playwright-automation-framework) | End-to-end web automation with POM — 28 test cases | Playwright · PyTest · POM · GitHub Actions |
+| [🔌 REST API Testing Framework](https://github.com/MalaRamBabu/api-testing-framework) | GET/POST/PUT/PATCH/DELETE — 43 test cases | Python · Requests · PyTest · GitHub Actions |
+| [🤖 AI Response Validator](https://github.com/MalaRamBabu/ai-response-validator) | Validates AI model responses for accuracy and safety — 31 test cases | Gemini API · PyTest · Python |
+| [👁️ Visual Testing Framework](https://github.com/MalaRamBabu/visual-testing-framework) | UI regression detection using screenshot comparison — 21 test cases | OpenCV · Playwright · NumPy |
+| [⚡ AI-Powered Test Generator](https://github.com/MalaRamBabu/ai-test-generator) | URL → AI analyses page → auto-generates Playwright tests → runs → HTML report | Playwright · Gemini AI · PyTest |
+
+---
+
+## 🏆 Key Achievements
+
+| Metric | Result |
+|---|---|
+| Manual testing reduction | **70%** across 10+ release cycles |
+| Regression time reduction | **50%** via Playwright CI/CD |
+| Critical defects in production | **Zero** |
+| Global clients | **QSC LLC (USA) · Sony Corporation (Japan)** |
+| Successful automated releases | **4 releases** |
+
+---
+
+## 🎓 Education
+
+**B.Tech — Electronics and Communication Engineering**
+JNTUA College of Engineering, Pulivendula · 2020 · CGPA: 7.03
+
+---
+
+## 📊 GitHub Stats
+
+![Mala Ram Babu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalaRamBabu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalaRamBabu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mala-ram-babu)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~malarambabu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uniquestarram@gmail.com)
+- 📧 **Email:** uniquestarram@gmail.com
+- 📞 **Phone:** +91 9160292505
+- 🔗 **LinkedIn:** [linkedin.com/in/mala-ram-babu](https://www.linkedin.com/in/mala-ram-babu)
+- 📍 **Location:** Chennai / Kurnool, Andhra Pradesh
+- 💼 **Open to:** Full-time QA Automation roles · Hybrid & Remote
 
 ---
 
-*💡 Open to freelance QA automation projects — Playwright, API testing, AI testing*
+*Open to Senior QA Automation Engineer and SDET opportunities*
